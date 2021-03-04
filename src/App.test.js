@@ -11,3 +11,7 @@ test("test the link", () => {
 	const x = 1;
 	expect(x == 1);
 });
+test("test the link", () => {
+	const x = 1;
+	expect(x == 1);
+});
